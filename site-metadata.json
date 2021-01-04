@@ -3,7 +3,7 @@
     "layout": "boxed",
     "style": "minimal",
     "palette": "gray",
-    "mode": "light",
+    "mode": "dark",
     "base_font": "serif",
     "header": {
         "title": "StonkGains",
