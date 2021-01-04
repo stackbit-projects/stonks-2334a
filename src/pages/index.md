@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: Learn to Trade
     subtitle: Option and Stock Trading
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: 'Learn analytical skills that can help you '
     actions:
       - label: Try Free
         url: /pricing
