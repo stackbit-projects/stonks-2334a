@@ -14,7 +14,7 @@ sections:
         style: secondary
     image: images/about-3.jpg
     media_position: left
-    media_width: fifty
+    media_width: fourty
     align: left
     padding_top: large
     padding_bottom: large
