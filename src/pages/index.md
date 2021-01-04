@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Learn to Trade
+    title: Learn to Trade For Free
     subtitle: Option and Stock Trading
     content: 'Learn analytical skills that can help you '
     actions:
