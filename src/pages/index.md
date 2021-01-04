@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Learn to Trade
-    subtitle: Optional hero section subtitle
+    subtitle: Option and Stock Trading
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
